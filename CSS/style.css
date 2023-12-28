@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.to-do-container{
+    /* margin-left: 650px; */
+    text-align: center;
+}
+
+
+/* h1{
+    padding-left: 200px;
+} */
